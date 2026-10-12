@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 40a6992348de740ff91370fe99531133
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3982671546802821437
+    second: darkhatman_walk_sheet_64x64_0
+  - first:
+      213: 5876648919860297800
+    second: darkhatman_walk_sheet_64x64_1
+  - first:
+      213: 1378944572291658414
+    second: darkhatman_walk_sheet_64x64_2
+  - first:
+      213: -301073764015265421
+    second: darkhatman_walk_sheet_64x64_3
+  - first:
+      213: 7258979458454505680
+    second: darkhatman_walk_sheet_64x64_4
+  - first:
+      213: -6997629781830022410
+    second: darkhatman_walk_sheet_64x64_5
+  - first:
+      213: 4009602413174103088
+    second: darkhatman_walk_sheet_64x64_6
+  - first:
+      213: 4232752174345091044
+    second: darkhatman_walk_sheet_64x64_7
+  - first:
+      213: -1217747845635300447
+    second: darkhatman_walk_sheet_64x64_8
+  - first:
+      213: -1796626398242453303
+    second: darkhatman_walk_sheet_64x64_9
+  - first:
+      213: -682275831113981848
+    second: darkhatman_walk_sheet_64x64_10
+  - first:
+      213: -5316135659326259195
+    second: darkhatman_walk_sheet_64x64_11
+  - first:
+      213: 6031487394296227573
+    second: darkhatman_walk_sheet_64x64_12
+  - first:
+      213: -3869563173293936620
+    second: darkhatman_walk_sheet_64x64_13
+  - first:
+      213: 4626553711961824771
+    second: darkhatman_walk_sheet_64x64_14
+  - first:
+      213: -2186104024501790781
+    second: darkhatman_walk_sheet_64x64_15
+  - first:
+      213: -7951410821119035546
+    second: darkhatman_walk_sheet_64x64_16
+  - first:
+      213: -8728883089952697040
+    second: darkhatman_walk_sheet_64x64_17
+  - first:
+      213: 8780598265333866013
+    second: darkhatman_walk_sheet_64x64_18
+  - first:
+      213: 5558139202290207800
+    second: darkhatman_walk_sheet_64x64_19
+  - first:
+      213: 4774865609328856932
+    second: darkhatman_walk_sheet_64x64_20
+  - first:
+      213: 960505386660125225
+    second: darkhatman_walk_sheet_64x64_21
+  - first:
+      213: -3793705275364095299
+    second: darkhatman_walk_sheet_64x64_22
+  - first:
+      213: -3356696501361467980
+    second: darkhatman_walk_sheet_64x64_23
+  - first:
+      213: 3583466870052731734
+    second: darkhatman_walk_sheet_64x64_24
+  - first:
+      213: 2905185808163779592
+    second: darkhatman_walk_sheet_64x64_25
+  - first:
+      213: 1493623156881779672
+    second: darkhatman_walk_sheet_64x64_26
+  - first:
+      213: -5909835423365616046
+    second: darkhatman_walk_sheet_64x64_27
+  - first:
+      213: -6527564116053102691
+    second: darkhatman_walk_sheet_64x64_28
+  - first:
+      213: -4428829003420236053
+    second: darkhatman_walk_sheet_64x64_29
+  - first:
+      213: -5764806776864047477
+    second: darkhatman_walk_sheet_64x64_30
+  - first:
+      213: 3593371491942232592
+    second: darkhatman_walk_sheet_64x64_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 462
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39dc34bbaa454730800000000000000
+      internalID: 3982671546802821437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 462
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c4f98e0d0e8150800000000000000
+      internalID: 5876648919860297800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 463
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2b56458cef22310800000000000000
+      internalID: 1378944572291658414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 463
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3792eacb10f52dbf0800000000000000
+      internalID: -301073764015265421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 398
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c9059b531db460800000000000000
+      internalID: 7258979458454505680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 398
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac358d9cc63ee90800000000000000
+      internalID: -6997629781830022410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 399
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c9ac7a628f4a730800000000000000
+      internalID: 4009602413174103088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 399
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7f91e2da1cdba30800000000000000
+      internalID: 4232752174345091044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a329ea49c0b91fe0800000000000000
+      internalID: -1217747845635300447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 335
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c84baa4fc91117e0800000000000000
+      internalID: -1796626398242453303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 335
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860ed971fb11886f0800000000000000
+      internalID: -682275831113981848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 335
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004210b8ca4936b0800000000000000
+      internalID: -5316135659326259195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 270
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6e54434d524b350800000000000000
+      internalID: 6031487394296227573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 270
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b1e3bbcc8c4ac0800000000000000
+      internalID: -3869563173293936620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30edfb7a612d43040800000000000000
+      internalID: 4626553711961824771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 271
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7d481e8f569a1e0800000000000000
+      internalID: -2186104024501790781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 206
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b0009cf9e6a190800000000000000
+      internalID: -7951410821119035546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 206
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359479c317ccd680800000000000000
+      internalID: -8728883089952697040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 207
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ed2a8c993fad970800000000000000
+      internalID: 8780598265333866013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4eacf72a722d40800000000000000
+      internalID: 5558139202290207800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 142
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f864e29fab34240800000000000000
+      internalID: 4774865609328856932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ad9b86f86645d00800000000000000
+      internalID: 960505386660125225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac567e62d0a5bc0800000000000000
+      internalID: -3793705275364095299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 143
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9d89015e9a61d0800000000000000
+      internalID: -3356696501361467980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bbfddd1280bb130800000000000000
+      internalID: 3583466870052731734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804bb16a91b415820800000000000000
+      internalID: 2905185808163779592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 79
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db6c3ef85a6ab410800000000000000
+      internalID: 1493623156881779672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ea54d7efb0cfda0800000000000000
+      internalID: -5909835423365616046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f611e550f6965a0800000000000000
+      internalID: -6527564116053102691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be680308c73a982c0800000000000000
+      internalID: -4428829003420236053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef04a97ca4fffa0800000000000000
+      internalID: -5764806776864047477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkhatman_walk_sheet_64x64_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0127b3b55583ed130800000000000000
+      internalID: 3593371491942232592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkhatman_walk_sheet_64x64_0: 3982671546802821437
+      darkhatman_walk_sheet_64x64_1: 5876648919860297800
+      darkhatman_walk_sheet_64x64_10: -682275831113981848
+      darkhatman_walk_sheet_64x64_11: -5316135659326259195
+      darkhatman_walk_sheet_64x64_12: 6031487394296227573
+      darkhatman_walk_sheet_64x64_13: -3869563173293936620
+      darkhatman_walk_sheet_64x64_14: 4626553711961824771
+      darkhatman_walk_sheet_64x64_15: -2186104024501790781
+      darkhatman_walk_sheet_64x64_16: -7951410821119035546
+      darkhatman_walk_sheet_64x64_17: -8728883089952697040
+      darkhatman_walk_sheet_64x64_18: 8780598265333866013
+      darkhatman_walk_sheet_64x64_19: 5558139202290207800
+      darkhatman_walk_sheet_64x64_2: 1378944572291658414
+      darkhatman_walk_sheet_64x64_20: 4774865609328856932
+      darkhatman_walk_sheet_64x64_21: 960505386660125225
+      darkhatman_walk_sheet_64x64_22: -3793705275364095299
+      darkhatman_walk_sheet_64x64_23: -3356696501361467980
+      darkhatman_walk_sheet_64x64_24: 3583466870052731734
+      darkhatman_walk_sheet_64x64_25: 2905185808163779592
+      darkhatman_walk_sheet_64x64_26: 1493623156881779672
+      darkhatman_walk_sheet_64x64_27: -5909835423365616046
+      darkhatman_walk_sheet_64x64_28: -6527564116053102691
+      darkhatman_walk_sheet_64x64_29: -4428829003420236053
+      darkhatman_walk_sheet_64x64_3: -301073764015265421
+      darkhatman_walk_sheet_64x64_30: -5764806776864047477
+      darkhatman_walk_sheet_64x64_31: 3593371491942232592
+      darkhatman_walk_sheet_64x64_4: 7258979458454505680
+      darkhatman_walk_sheet_64x64_5: -6997629781830022410
+      darkhatman_walk_sheet_64x64_6: 4009602413174103088
+      darkhatman_walk_sheet_64x64_7: 4232752174345091044
+      darkhatman_walk_sheet_64x64_8: -1217747845635300447
+      darkhatman_walk_sheet_64x64_9: -1796626398242453303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
